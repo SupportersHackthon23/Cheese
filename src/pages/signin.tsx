@@ -1,6 +1,7 @@
+import { NextPage } from "next";
 import React from "react";
 
-const signin = () => {
+const signin:NextPage = () => {
   return <div>signin</div>;
 };
 
