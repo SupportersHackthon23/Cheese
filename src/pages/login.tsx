@@ -1,8 +1,5 @@
-import { NextPage } from "next";
 import React from "react";
 
- const login:NextPage = () => {
+export const login = () => {
   return <div>login</div>;
 };
-
-export default login
