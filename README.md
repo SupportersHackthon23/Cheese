@@ -17,6 +17,7 @@ etc. feat: 〇〇なため、△△を追加
 
 参考URL:https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e#1-prefix%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B
 
+
 ## Pull Request
 
 ### 実行タスク（issue 番号）
@@ -38,6 +39,9 @@ etc. feat: 〇〇なため、△△を追加
 
 レビュワーへの補足事項はあるか？（あれば。無いなら「無し」で OK）
 
+## Branch
+
+feature/name/#2(issue)
 
 ## Getting Started
 
