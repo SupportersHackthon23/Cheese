@@ -37,13 +37,13 @@ export const CustomMarker = (props: Props) => {
             <div onClick={handleClick}
                 style={{ position: "relative" }}
             >
-                <Image src={imageUrl} width={100} height={70} alt='marker'
+                <Image src={imageUrl} width={100} height={100} alt='marker'
                     draggable={false}
                     style={
                         !isSelected
                             ? {
                                 // borderRadius: "50%",
-                                objectFit: "contain",
+                                objectFit: "cover",
 
                             }
                             : {
